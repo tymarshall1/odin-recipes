@@ -6,7 +6,7 @@ I have also added some very basic styling to the page.
 
 The website itself consists of a few pages that contain different recipes.
 
-while woring on the website, I learned:
+while working the website to this point, ive learned:
 
 - Many different html tags and how they work together to form a webpage
 - Block and inline elements and their differences
